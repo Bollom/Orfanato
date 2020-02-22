@@ -1,0 +1,21 @@
+#button {
+    padding: 0;
+    margin: 0;
+    text-align: right;
+    }
+   
+ul#button {
+    display: inline;
+    text-align: right;
+    }
+   
+ul#button li {
+        display: inline;
+        text-align: right;
+    }
+
+    header{
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-end;
+    }
